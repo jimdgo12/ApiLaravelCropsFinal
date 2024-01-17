@@ -1,0 +1,21 @@
+.brand-logo {
+    padding: 0 !important;
+    text-align: center !important;
+}
+
+.img-logo {
+    width: 135px !important
+}
+
+.background-admin {
+    background-image: url("../../admin/img/cultivos3.jpg") !important;
+    background-size: contain !important;
+    background-repeat: repeat !important;
+    width: 100% !important;
+    height: 450px !important;
+}
+
+.image-preview {
+    width: 180px;
+    height: 240px;
+}
